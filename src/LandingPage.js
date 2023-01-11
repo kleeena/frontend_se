@@ -9,7 +9,10 @@ function LandingPage() {
             <div className="LHeading1">
                 <h4>Do more with your money</h4>
                 <p>Send and spend, bank* and buy stocks or bitcoin</p>
-                <button id="btn1" img=''>Download our app</button>
+                <button id="btn1">
+                    <p id="pLHeading1">Download our app</p>
+                    <img src={require("./css/svg/Vector (Stroke).png")} id='arrowvector' alt=""></img> 
+                </button>
             </div>
             <div id="bgshapesdiv">
                
@@ -53,6 +56,9 @@ function LandingPage() {
                 <div className="section2-text">
                     <h4>Pay anyone instantly.</h4>
                     <p>Its always free to send or receive Money, Crypto, and Stocks with CashApp</p>
+                    <button id="btn2">
+                    <p id="section2-btn">Learn more</p>
+                    </button>
                 </div>
 
                 <div className="section3-text">

@@ -53,6 +53,50 @@ div.LHeading1  h4 {
 
 }
 
+div.LHeading1 button{
+    box-sizing: border-box;
+    background: none;
+
+    position: absolute;
+    width: 293px;
+    height: 60px;
+    left: 242px;
+    top: 615px;
+
+    
+    border: 1px solid #FFFFFF;
+    border-radius: 20px;
+}
+
+div.LHeading1 button img{
+    position: relative;
+    left: 100px;
+    top: -40px;
+
+}
+#pLHeading1 {
+    position: relative;
+    left: -80px;
+    top: 1px;
+
+}
+
+#section2-btn {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 351px;
+    height: 60px;
+    left: 816px;
+    top: 1431px;
+    
+    border: 1px solid #FFFFFF;
+    border-radius: 20px;
+}
+
+
+
+
 div.LHeading1  p{
     position: absolute;
 width: 403px;
