@@ -1,0 +1,636 @@
+.rectangleIcon,
+.rectangleIcon1,
+.rectangleIcon2,
+.rectangleIcon3 {
+  position: absolute;
+  height: 3%;
+  width: 9.5%;
+  top: 8.49%;
+  right: 41%;
+  bottom: 88.51%;
+  left: 49.5%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.rectangleIcon1,
+.rectangleIcon2,
+.rectangleIcon3 {
+  height: 3.23%;
+  width: 10.13%;
+  top: 18.39%;
+  right: 83.06%;
+  bottom: 78.38%;
+  left: 6.81%;
+}
+.rectangleIcon2,
+.rectangleIcon3 {
+  top: 50.64%;
+  right: 6.81%;
+  bottom: 46.14%;
+  left: 83.06%;
+}
+.rectangleIcon3 {
+  top: 72.47%;
+  bottom: 24.3%;
+}
+.cashappUi200Child {
+  position: absolute;
+  top: 203px;
+  left: 944px;
+  width: 527px;
+  height: 527px;
+}
+.cashappUi200Item {
+  position: absolute;
+  top: 183px;
+  left: 924px;
+  width: 567px;
+  height: 567px;
+}
+.cashappUi200Inner,
+.rectangleIcon4 {
+  position: absolute;
+  top: 163px;
+  left: 904px;
+  width: 607px;
+  height: 607px;
+}
+.rectangleIcon4 {
+  height: 3.63%;
+  width: 11.5%;
+  top: 2.56%;
+  right: 4.63%;
+  bottom: 93.81%;
+  left: 83.88%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.iphone141GooglePixel5Ju {
+  position: absolute;
+  top: 302.12px;
+  left: 880.11px;
+  width: 340.69px;
+  height: 537.3px;
+  object-fit: cover;
+}
+.groupIcon,
+.groupIcon1 {
+  position: absolute;
+  height: 2.61%;
+  width: 8.1%;
+  top: 2.86%;
+  right: 35.21%;
+  bottom: 94.52%;
+  left: 56.69%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupIcon1 {
+  height: 0.92%;
+  width: 2.46%;
+  top: 13.53%;
+  right: 43.29%;
+  bottom: 85.56%;
+  left: 54.26%;
+}
+.rectangleIcon5 {
+  height: 1.27%;
+  width: 3.97%;
+  top: 15.65%;
+  right: 15.03%;
+  bottom: 83.08%;
+  left: 81%;
+  object-fit: cover;
+}
+.rectangleIcon5,
+.rectangleIcon6,
+.vectorIcon {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangleIcon6 {
+  height: 89.12%;
+  width: 90.19%;
+  top: 26.52%;
+  right: 54.54%;
+  bottom: -15.64%;
+  left: -44.73%;
+  object-fit: cover;
+}
+.vectorIcon {
+  height: 27.87%;
+  width: 71.41%;
+  top: 32.68%;
+  right: 57.4%;
+  bottom: 39.45%;
+  left: -28.82%;
+}
+.rectangleParent {
+  position: absolute;
+  height: 1.27%;
+  width: 3.97%;
+  top: 1.63%;
+  right: 23.22%;
+  bottom: 97.1%;
+  left: 72.8%;
+  filter: blur(4px);
+  transform: rotate(45deg);
+  transform-origin: 0 0;
+}
+.vectorIcon1,
+.vectorIcon2 {
+  position: absolute;
+  height: 1.45%;
+  width: 5.07%;
+  top: 9.51%;
+  right: 10.65%;
+  bottom: 89.05%;
+  left: 84.29%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon2 {
+  height: 0.94%;
+  width: 3.28%;
+  top: 13.42%;
+  right: 8.85%;
+  bottom: 85.64%;
+  left: 87.88%;
+}
+.iphone141GooglePixel5Ju1,
+.rectangleIcon7 {
+  position: absolute;
+  top: 133.01px;
+  left: 1113.91px;
+  width: 343.12px;
+  height: 600.28px;
+  object-fit: cover;
+}
+.rectangleIcon7 {
+  height: 2.42%;
+  width: 7.69%;
+  top: 12.32%;
+  right: 24.38%;
+  bottom: 85.26%;
+  left: 67.94%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.cashapp,
+.doMoreWith {
+  position: absolute;
+  top: 67px;
+  left: 190px;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-grifter);
+}
+.doMoreWith {
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-4xl);
+  display: inline-block;
+  width: 505px;
+}
+.groupChild {
+  position: absolute;
+  top: 218px;
+  left: 0;
+  border-radius: var(--br-md);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 293px;
+  height: 60px;
+}
+.sendAndSpend {
+  position: absolute;
+  top: 164px;
+  left: 0;
+}
+.downloadOurApp,
+.vectorStrokeIcon {
+  position: absolute;
+  top: 236px;
+  left: 72px;
+}
+.vectorStrokeIcon {
+  left: 253px;
+  width: 18px;
+  height: 24px;
+}
+.doMoreWithYourMoneyParent,
+.rectangleDiv {
+  position: absolute;
+  top: 329px;
+  left: 190px;
+  width: 505px;
+  height: 278px;
+}
+.rectangleDiv {
+  top: 964px;
+  border-radius: var(--br-lg);
+  background-color: var(--color-white);
+  width: 499px;
+  height: 776px;
+}
+.cashappUi200Child1 {
+  position: absolute;
+  top: 2775px;
+  left: 0;
+  width: 1600px;
+  height: 716px;
+  object-fit: cover;
+}
+.cashappUi200Child2,
+.cashappUi200Child3 {
+  position: absolute;
+  top: 2619px;
+  left: 1410px;
+  border-radius: var(--br-lg);
+  background-color: var(--color-white);
+  width: 499px;
+  height: 776px;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.cashappUi200Child3 {
+  top: 3646px;
+}
+.groupItem {
+  position: absolute;
+  top: 218px;
+  left: 0;
+  border-radius: var(--br-md);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 351px;
+  height: 60px;
+}
+.learnMore {
+  position: absolute;
+  top: 236px;
+  left: 130px;
+}
+.payAnyoneInstantly {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-4xl);
+  display: inline-block;
+  font-family: var(--font-grifter);
+  width: 591px;
+}
+.rectangleGroup {
+  position: absolute;
+  top: 1213px;
+  left: 816px;
+  width: 592px;
+  height: 278px;
+}
+.bankTheWay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-4xl);
+  display: inline-block;
+  font-family: var(--font-grifter);
+  width: 483px;
+}
+.rectangleContainer {
+  position: absolute;
+  top: 2109px;
+  left: 239px;
+  width: 483px;
+  height: 278px;
+}
+.getInTo,
+.groupDiv {
+  position: absolute;
+  width: 569px;
+}
+.getInTo {
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-4xl);
+  display: inline-block;
+  font-family: var(--font-grifter);
+}
+.groupDiv {
+  top: 3895px;
+  left: 239px;
+  height: 278px;
+}
+.rectangleIcon10,
+.rectangleIcon11,
+.rectangleIcon12,
+.rectangleIcon13,
+.rectangleIcon8,
+.rectangleIcon9 {
+  position: absolute;
+  height: 2.62%;
+  width: 8.31%;
+  top: 31.24%;
+  right: 52.81%;
+  bottom: 66.14%;
+  left: 38.88%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.rectangleIcon10,
+.rectangleIcon11,
+.rectangleIcon12,
+.rectangleIcon13,
+.rectangleIcon9 {
+  top: 38.39%;
+  right: 38.88%;
+  bottom: 58.98%;
+  left: 52.81%;
+}
+.rectangleIcon10,
+.rectangleIcon11,
+.rectangleIcon12,
+.rectangleIcon13 {
+  top: 85.32%;
+  bottom: 12.06%;
+}
+.rectangleIcon11,
+.rectangleIcon12,
+.rectangleIcon13 {
+  height: 1.57%;
+  width: 5%;
+  top: 33.96%;
+  right: 85.63%;
+  bottom: 64.47%;
+  left: 9.38%;
+}
+.rectangleIcon12,
+.rectangleIcon13 {
+  top: 36.72%;
+  right: 9.38%;
+  bottom: 61.71%;
+  left: 85.63%;
+}
+.rectangleIcon13 {
+  top: 88.04%;
+  bottom: 10.39%;
+}
+.downloadOurApp1,
+.ourAppIs {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.ourAppIs {
+  top: 82px;
+  font-size: var(--font-size-base);
+  display: inline-block;
+  width: 569px;
+}
+.groupChild2,
+.groupChild3,
+.vectorIcon3 {
+  position: absolute;
+  height: 27.78%;
+  width: 10.54%;
+  top: 72.22%;
+  right: 89.1%;
+  bottom: 0;
+  left: 0.35%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupChild3,
+.vectorIcon3 {
+  width: 9.87%;
+  right: 68.87%;
+  left: 21.27%;
+}
+.vectorIcon3 {
+  width: 14%;
+  right: 44.53%;
+  left: 41.48%;
+}
+.downloadOurAppParent {
+  position: absolute;
+  top: 4598px;
+  left: 190px;
+  width: 569px;
+  height: 216px;
+  font-size: var(--font-size-3xl);
+}
+.groupChild4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-md);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 412px;
+  height: 60px;
+}
+.subscribe {
+  position: absolute;
+  top: 18px;
+  left: 161px;
+}
+.groupChild5,
+.rectangleParent1 {
+  position: absolute;
+  top: 4771px;
+  left: 998px;
+  width: 412px;
+  height: 60px;
+}
+.groupChild5 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-md);
+  background-color: #252525;
+}
+.exampleemailcom {
+  position: absolute;
+  top: 16px;
+  left: 30px;
+  font-weight: 300;
+}
+.rectangleParent2 {
+  position: absolute;
+  top: 4691px;
+  left: 998px;
+  width: 412px;
+  height: 60px;
+  font-size: var(--font-size-base);
+  color: #656565;
+}
+.joinOurNewsletter {
+  position: absolute;
+  top: 4598px;
+  left: 998px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+}
+.receiveLatestNews {
+  position: absolute;
+  top: 4653px;
+  left: 998px;
+  font-size: 12px;
+}
+.bankIcon,
+.payingWithCardOnline {
+  position: absolute;
+  top: 1138px;
+  left: 129px;
+  width: 623px;
+  height: 428px;
+  object-fit: cover;
+}
+.bankIcon {
+  top: 1995px;
+  left: 914px;
+  width: 496px;
+  height: 496px;
+}
+.cashappUi200Child4 {
+  position: absolute;
+  top: 4918px;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1600px;
+  height: 41px;
+}
+.allRightsReserved {
+  position: absolute;
+  top: 4925px;
+  left: 720px;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+}
+.groupChild6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-md);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 351px;
+  height: 60px;
+}
+.learnMore3 {
+  position: absolute;
+  top: 18px;
+  left: 130px;
+}
+.rectangleParent3 {
+  position: absolute;
+  top: 151px;
+  left: 299px;
+  width: 351px;
+  height: 60px;
+}
+.saveOnEveryday {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-4xl);
+  font-family: var(--font-grifter);
+  text-align: center;
+}
+.groupParent,
+.itsAlwaysFree1 {
+  position: absolute;
+  top: 97px;
+  left: 179px;
+}
+.groupParent {
+  top: 3044px;
+  left: 326px;
+  width: 949px;
+  height: 211px;
+}
+.cashappUi200Child5 {
+  position: absolute;
+  height: 0.46%;
+  width: 14.28%;
+  top: 16.18%;
+  right: 73.85%;
+  bottom: 83.35%;
+  left: 11.88%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.ellipseIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 45px;
+  height: 45px;
+}
+.groupChild7,
+.groupChild8,
+.groupChild9 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-black);
+  width: 21.32px;
+  height: 3.16px;
+}
+.groupChild8,
+.groupChild9 {
+  top: 6.32px;
+}
+.groupChild9 {
+  top: 12.63px;
+}
+.ellipseParent,
+.rectangleParent4 {
+  position: absolute;
+  top: 14.21px;
+  left: 11.84px;
+  width: 21.32px;
+  height: 15.79px;
+}
+.ellipseParent {
+  top: 60px;
+  left: 1359px;
+  width: 45px;
+  height: 45px;
+}
+.lineDiv,
+.menu {
+  position: absolute;
+  top: 70px;
+  left: 1303px;
+}
+.lineDiv {
+  top: 4500.5px;
+  left: 189.5px;
+  border-top: 1px solid #343434;
+  box-sizing: border-box;
+  width: 1221px;
+  height: 1px;
+}
+.cashappUi200 {
+  position: relative;
+  background-color: var(--color-gray-500);
+  width: 100%;
+  height: 4959px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}
