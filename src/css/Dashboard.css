@@ -1,0 +1,64 @@
+.DashboardBody{
+    position: relative;
+    width: 1600px;
+    height: 900px;
+    
+    background: #121212;
+}
+
+.sidebar{
+    position: absolute;
+    width: 88px;
+    height: 900px;
+    left: 0px;
+    top: 0px;
+    
+    background: #292929;
+}
+
+.sidebar ul{
+    list-style: none;
+    position: absolute;
+    top: 10px;
+}
+
+#Ellipse11{
+    position: absolute;
+    
+    left: 19px;
+    top: 175px;
+    
+}
+
+#group378 {
+   position: absolute;
+   top: 188px;
+   left: 31px;
+}
+
+#group377{
+    position: absolute;
+    left: 34%;
+    right: 0%;
+    top: 32.73%;
+    
+}
+
+#vectorD1 {
+    position: absolute;
+    left: 31px;
+    top: 396.661987px;
+}
+
+#group40{
+    left: 31px;
+    top: 494.661865px;
+    position: absolute;
+}
+    
+#group375{
+    position: absolute;
+    left: 28px;
+    top: 590.661865px;
+}
+    
