@@ -32,7 +32,7 @@ export default class Transaction extends React.Component{
                 <img id='vectorDebit' src={require('./css/svg/VectorDebit.png')}></img>
               </div>
               <p id='transaction_type'>Debit</p>
-              <p id='transaction_receiver'>{this.state.sender}</p>
+              <p id='transaction_receiver'>{this.state.receiver}</p>
               <p id='transaction_time'>01:45 PM</p>
               <p id='transaction_date'>{this.state.date}</p>
               <p id='transaction_amount'>${this.state.amount}</p>
@@ -45,7 +45,7 @@ export default class Transaction extends React.Component{
             <img id='vectorDebit' src={require('./css/svg/VectorCredit.png')}></img>
           </div>
           <p id='transaction_type'>Credit</p>
-          <p id='transaction_receiver'>{this.state.receiver}</p>
+          <p id='transaction_receiver'>{this.state.sender}</p>
           <p id='transaction_time'>01:45 PM</p>
           <p id='transaction_date'>{this.state.date}</p>
           <p id='transaction_amount'>${this.state.amount}</p>

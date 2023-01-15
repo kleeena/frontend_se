@@ -6,9 +6,9 @@ import './css/TransactionList.css';
 function TransactionList() {
     
     const transactions = [
-        {date:'13 Nov 2022',sender:'Leena Kamran',amount:'100',isDebit:true},
-        {date:'15 Nov 2022',receiver:'Sadia Kamran',amount:'50',isDebit:false},
-        {date:'17 Nov 2022',receiver:'Rohan Kamran',amount:'600',isDebit:false},
+        {date:'13 Nov 2022',receiver:'Leena Kamran',amount:'100',isDebit:true},
+        {date:'15 Nov 2022',sender:'Sadia Kamran',amount:'50',isDebit:false},
+        {date:'17 Nov 2022',sender:'Rohan Kamran',amount:'600',isDebit:false},
       ]
 
     return(
