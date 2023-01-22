@@ -8,11 +8,13 @@ import {Footer} from './Footer';
 import Dashboard from './Dashboard';
 import Transaction from './Transaction';
 import TransactionList from './TransactionList';
+import SendFunds from './SendFunds';
+import LoadFunds from './LoadFunds';
 
 function App() {
   return (
     <>
-    <Dashboard/>
+    <SendFunds/>
     
 
     </>
