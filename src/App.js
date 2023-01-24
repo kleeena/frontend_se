@@ -10,11 +10,12 @@ import Transaction from './Transaction';
 import TransactionList from './TransactionList';
 import SendFunds from './SendFunds';
 import LoadFunds from './LoadFunds';
+import ForgotPassword from './ForgotPassword';
 
 function App() {
   return (
     <>
-    <Dashboard/>
+    <ForgotPassword/>
     
 
     </>
