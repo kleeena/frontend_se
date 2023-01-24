@@ -388,3 +388,11 @@
     color: #FFFFFF;
     
 }
+
+.send-btn:hover{
+    border: 1px solid;
+}
+
+.send-btn:focus:active{
+    background: #bb4e4e;
+}

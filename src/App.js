@@ -14,7 +14,7 @@ import LoadFunds from './LoadFunds';
 function App() {
   return (
     <>
-    <SendFunds/>
+    <Dashboard/>
     
 
     </>

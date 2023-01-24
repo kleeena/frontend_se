@@ -7,6 +7,11 @@ import usdtIcon from './css/icons/usdt_icon.png';
 import bnbIcon from './css/icons/bnb_icon.png';
 import adaIcon from './css/icons/ada_icon.png';
 import dogeIcon from './css/icons/doge_icon.png';
+import sadapayIcon from './css/icons/sadapay_icon.png';
+import ablIcon from './css/icons/ABL_icon.png';
+import jazzcashIcon from './css/icons/jazzcash_icon.png';
+import easypaisaIcon from './css/icons/easypaisa_icon.png';
+import BAFLIcon from './css/icons/BAF_icon.png';
 
 
 const crypto = [
@@ -27,13 +32,11 @@ const network = [
 ]
 
 const banks = [
-  {value:'sadapay', label:'SadaPay'},
-  {value:'jazzcash', label:'JazzCash'},
-  {value:'easypaisa', label:'EasyPaisa'},
-  {value:'keenu', label:'KEENU'},
-  {value:'ABL', label:'Allied Bank (ABL)'},
-  {value:'BAHL', label:'Bank Al Habib'},
-  {value:'BAFL', label:'Bank Alfalah (BAFL)'},
+  {value:'sadapay', label:'SadaPay', icon:sadapayIcon},
+  {value:'jazzcash', label:'JazzCash', icon: jazzcashIcon},
+  {value:'easypaisa', label:'EasyPaisa', icon: easypaisaIcon},
+  {value:'ABL', label:'Allied Bank (ABL)', icon:ablIcon},
+  {value:'BAFL', label:'Bank Alfalah (BAFL)', icon: BAFLIcon},
 ]
 
 const currency = [
@@ -45,9 +48,9 @@ const currency = [
 
 
 const Option = (props) => (
-  <components.Option {...props} className="country-option">
-    <img src={props.data.icon} alt="logo" className="country-logo" />
-    {props.data.label}
+  <components.Option {...props} className="select-options">
+    <img src={props.data.icon} alt="logo" className="selected-logo" />
+    <div className="options-text">{props.data.label}</div>
   </components.Option>
 );
 
@@ -340,7 +343,8 @@ const Dropdown = (props) => {
       <Select
         value={bank_val}
         options={banks}
-        onChange={handleChangeCrypto}
+        onChange={handleChangeBank}
+        id = 'bank-select-dropdown'
         styles={{
           container: (base) => (
             {
@@ -433,6 +437,14 @@ const Dropdown = (props) => {
             }
           ),
 
+          menuList: (base) => (
+            {
+              ...base,
+              overflowX: 'hidden',
+
+            }
+          ),
+
           dropdownIndicator: (base) => ( {
             position: 'relative',
             top: '-38px',
@@ -470,7 +482,7 @@ const Dropdown = (props) => {
     <Select 
         value={currency_val}
         options={currency}
-        onChange={handleChangeNetwork}
+        onChange={handleChangeCurrency}
         styles= {
           {
 

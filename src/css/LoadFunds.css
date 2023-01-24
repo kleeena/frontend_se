@@ -149,3 +149,9 @@
     border: 1px solid #4D4D4D;
     border-radius: 10px;
 }
+
+#qrcode{
+    position: relative;
+    top: 16px;
+    left: 34px;
+}

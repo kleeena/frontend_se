@@ -38,13 +38,15 @@ export default function ToggleLoadFunds(props) {
         <p className="cashtag-value">{props.cashtag}</p>
         <p className="IBAN">IBAN</p>
         <p className="IBAN-val">INT001CASHAPP213623</p>
-        <div className="QR-code"></div>
+        <div className="QR-code">
+          <img id="qrcode" src={require('./css/icons/qrcode.png')} width='142.24px' height='142.24px'></img>
+        </div>
       
       </div>
 
       </div>
     {/* <button id="sf-div2-cryptobtn" onClick={toggleHide}>Crypto</button> */}
-    <button id="sf-div2-fiatbtn" onClick={toggleHide}>Fiat</button>
+    <button id="sf-div2-fiatbtn">Fiat</button>
     
 
     </div>
