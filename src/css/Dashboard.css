@@ -275,6 +275,15 @@
     color: #FFFFFF;
 }
 
+#load_btn:hover{
+    border: 1px solid;
+}
+#load_btn:focus:active{
+    background: #219405;
+}
+
+
+
 #send_btn{
     position: absolute;
     width: 448px;
@@ -293,6 +302,13 @@
     
     
     color: #FFFFFF;
+}
+
+#send_btn:hover{
+    border: 1px solid;
+}
+#send_btn:focus:active{
+    background: #bb4e4e;
 }
 
 #group1{
